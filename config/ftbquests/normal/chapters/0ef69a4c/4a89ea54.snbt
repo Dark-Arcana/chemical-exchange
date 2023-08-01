@@ -1,0 +1,14 @@
+{
+	title: "Twitter",
+	icon: "contenttweaker:twitter",
+	disable_toast: true,
+	x: -2.0d,
+	y: -3.0d,
+	shape: "rsquare",
+	custom_click: "https://twitter.com/aklizhosting",
+	tasks: [{
+		uid: "9bfa912b",
+		type: "dimension",
+		dim: 0
+	}]
+}

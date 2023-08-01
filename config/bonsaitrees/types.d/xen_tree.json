@@ -1,0 +1,28 @@
+{
+    "name": "xencraft:xen_sapling",
+    "mod": "xencraft",
+    "sapling": {
+        "name": "xencraft:xen_sapling",
+        "data": 0
+    },
+    "growTimeMultiplier": 1.5,
+    "drops": [
+        {
+            "name": "xencraft:xen_log",
+            "data": 0,
+            "type": "WOOD"
+        },
+		{
+          "name": "xencraft:xen_gem",
+		  "data": 0,
+		  "type": "CUSTOM",
+		  "count": 1,
+		  "chance": 0.85
+		},
+		{
+		  "name": "xencraft:xen_leaves",
+		  "data": 0,
+		  "type": "LEAVES"
+		}
+    ]
+}

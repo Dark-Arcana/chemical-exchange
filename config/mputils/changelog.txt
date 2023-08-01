@@ -1,0 +1,66 @@
+=-= Changelog =-=
+
+v1.14.0 - 2023-08-01
+===
+
+Added Mods:
+- AE2 Unofficial Extended Life (replaces Applied Energistics)
+- CensoredASM
+- dan's Crafting Tweaks (replaces Crafting Tweaks)
+- dan's Mouse Tweaks (replaces Mouse Tweaks)
+- Default World Generator (replaces Topography)
+- Had Enough Items (replaces JEI)
+- Inventory Bogo Sorter (replaces Inventory Tweaks)
+- MPUtils
+- MPUtils Basic Tools (ingame Changelog / Infopanel)
+- No Default Auto-Jump
+- Not Enough Energistics (replaces Just Enough Energistics)
+- NuclearCraft Reactor Builder
+- OAuth (replaces ReAuth)
+- PipeBlocker
+- RandomPatches (replaces It's the little things)
+- Sledgehammer
+- Startup Timer
+- Universal Tweaks
+- Void Island Control (will replace Topography once I get to it)
+
+Updated Mods:
+- ArchitectureCraft
+- B.A.S.E
+- BdLib
+- Carry On
+- ContentTweaker
+- Controlling
+- Corail Tombstone
+- CraftTweaker
+- DiscordCraft
+- Ender IO
+- Ender IO Endergy
+- EnderCore
+- FoamFix
+- MTLib
+- NuclearCraft
+- Recipe Stages
+- Smooth Font
+- UniDict
+- WanionLib
+
+Removed Mods:
+- Applied Energistics
+- Crafting Tweaks
+- Fast Leaf Decay
+- Mouse Tweaks
+- Inventory Tweaks
+- It's the little things (RandomPatches already offers this feature)
+- Initial Inventory (FTB Utilities already offers this feature)
+- Just Enough Energistics
+- Just Enough Items
+- No Recipe Book
+- Toast Control
+
+Changes/Bugfixes:
+- removed old links from questbook
+- rewrite all CraftTweaker scripts
+- restructured resources
+- remade main menu graphics
+

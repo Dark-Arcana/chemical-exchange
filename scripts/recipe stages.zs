@@ -1,0 +1,1 @@
+mods.recipestages.Recipes.setRecipeStage("aluminum", <minecraft:dirt:1>);

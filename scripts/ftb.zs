@@ -1,0 +1,1 @@
+recipes.addShaped(<ftbquests:screen>,[[<ore:chest>]]);

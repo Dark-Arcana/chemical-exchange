@@ -1,0 +1,5 @@
+setSingleBiome("minecraft:plains")
+
+
+//Sets the spawn structure for the dimension.
+setSpawnStructure("grass")

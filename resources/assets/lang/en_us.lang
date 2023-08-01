@@ -1,0 +1,570 @@
+# Chapters
+chemx.main=Main Quests
+chemx.table=Periodic Table
+
+#
+#Main Quests
+#
+chemx.start_here.title=Start Here
+chemx.start_here.text=Welcome to Chemical Exchange, a skyblock experience featuring Alchemistry and ProjectE!
+
+chemx.quest_carbon.title=16x Carbon
+chemx.quest_carbon.text=Purchase carbon in the shop, found at the top-left corner of your quest screen. You'll need this for some future quests as well.
+
+chemx.coal.title=[Coal, Charcoal]
+chemx.coal.text=Create charcoal or coal with the chemical combiner.
+
+chemx.saplings.title=Saplings
+chemx.saplings.text=Create any vanilla sapling in the chemical combiner. You can use the cellulose rewarded by the previous quest.
+
+chemx.torch.title=16x Torch
+chemx.torch.text=Let there be light!
+
+chemx.polluted_earth.title=Polluted Earth
+chemx.polluted_earth.text_1=Purchased in the shop.
+chemx.polluted_earth.text_2=Spawns mobs, even in spawn chunks.
+
+chemx.cellulose.title=16x Cellulose
+chemx.cellulose.text=Welcome to the backbone of the pack. The transmutation table lets you convert between all *learned* elements. Keep in mind that you can only transmute elements, and you have to put an element in the table to learn it before you can make it.
+
+chemx.cellulose_repeatable.title=Cellulose [Repeatable]
+chemx.cellulose_repeatable.text=These quests can be submitted repeatedly, provided you submit the resources repeatedly. Use these quests to build up coins for the shop.
+
+chemx.quest_chest.title=Screen
+chemx.quest_chest.text=Can be used to submit items required for quests. This is convenient for repeatable quests or quests with large quantities of inputs  (as it is compatible with item transportation). Items can be inserted with something like a hopper.
+
+chemx.gunpowder.title=4x Gunpowder
+chemx.gunpowder.text=Creepers, man.
+
+chemx.gunpowder_repeatable.title=Gunpowder [Repeatable]
+chemx.gunpowder_repeatable.text=
+
+chemx.rotten_flesh.title=4x Rotten Flesh
+chemx.rotten_flesh.text=
+
+chemx.rotten_flesh_repeatable.title=Rotten Flesh [Repeatable]
+chemx.rotten_flesh_repeatable.text=And a few more
+
+chemx.bone.title=4x Bone
+chemx.bone.text=Use this to make bonemeal for flowers. Some elements can be acquired by dissolving dyes.
+
+chemx.quest_chromium.title=16x Chromium
+chemx.quest_chromium.text=Used for emeralds.
+
+chemx.quest_lead.title=16x Lead
+chemx.quest_lead.text=Used for many recipes in NuclearCraft
+
+chemx.quest_strontium.title=Strontium
+chemx.quest_strontium.text=Found in the shop. Used for redstone
+
+chemx.quest_calcium.title=16x Calcium
+chemx.quest_calcium.text=Used for lapis.
+
+chemx.quest_iron.title=Iron
+chemx.quest_iron.text=Found in the shop. You'll definitely want to toss this in your transmutation table after buying it.
+
+chemx.water_bucket.title=Water Bucket
+chemx.water_bucket.text=Water!
+
+chemx.quest_selenium.title=16x Selenium
+chemx.quest_selenium.text=Acquired from dissolving fish.
+
+chemx.quest_silicon.title=16x Silicon
+chemx.quest_silicon.text=Found in the shop. Used for cobblestone.
+
+chemx.furnace.title=Furnace
+chemx.furnace.text=Now you can eat more nourishing food.
+
+chemx.quest_aluminum.title=Aluminum
+chemx.quest_aluminum.text=Purchased in the shop.
+
+chemx.quest_radium.title=16x Radium
+chemx.quest_radium.text=
+
+chemx.quest_technetium.title=16x Technetium
+chemx.quest_technetium.text=
+
+chemx.quest_indium.title=16x Indium
+chemx.quest_indium.text=
+
+chemx.quest_osmium.title=16x Osmium
+chemx.quest_osmium.text=Used for certus for Applied Energistics.
+
+chemx.quest_manganese.title=16x Manganese
+chemx.quest_manganese.text=Used for various NuclearCraft ingredients.
+
+chemx.quest_tin.title=16x Tin
+chemx.quest_tin.text=
+
+chemx.clay.title=Clay
+chemx.clay.text=You may want to automate this in the future.
+
+chemx.hopper.title=Hopper
+chemx.hopper.text=Want a Hopping Bonsai? It's this way..
+
+chemx.bonsai.title=Hopping Bonsai Pot
+chemx.bonsai.text=Ah, the beginning of EMC automation.
+
+chemx.liquifier.title=Liquifier
+chemx.liquifier.text=Used to liquify elements into... liquids...
+
+chemx.quest_phosphorus.title=8x Phosphorus
+chemx.quest_phosphorus.text=
+
+chemx.lava_bucket.title=Lava Bucket
+chemx.lava_bucket.text_1=Insert phosphorus into the liquifier for lava, then right-click it with a bucket to scoop it out.
+chemx.lava_bucket.text_2=NOTE: The nether is disabled in this pack.
+
+chemx.cobble_gen_1.title=Cobblestone Generator
+chemx.cobble_gen_1.text=Idly makes cobblestone for all your cobblestone needs.
+
+chemx.quest_tungsten.title=Tungsten
+chemx.quest_tungsten.text=Needed to make evaporators for more resource automation
+
+chemx.evaporator.title=Evaporator
+chemx.evaporator.text_1=Right-click with a water bucket to fill with water.
+chemx.evaporator.text_2=Will automatically make mineral salt out of water.
+chemx.evaporator.text_3=Holds 10 buckets of water.
+
+chemx.quest_zinc.title=16x Zinc
+chemx.quest_zinc.text=
+
+chemx.quest_bromine.title=16x Bromine
+chemx.quest_bromine.text=
+
+chemx.quest_fluorine.title=16x Fluorine
+chemx.quest_fluorine.text=
+
+chemx.quest_chlorine.title=16x Chlorine
+chemx.quest_chlorine.text=
+
+chemx.quest_lithium.title=16x Lithium
+chemx.quest_lithium.text=
+
+chemx.quest_gallium.title=16x Gallium
+chemx.quest_gallium.text=Hey, you want more cobblestone?
+
+chemx.quest_nickel.title=16x Nickel
+chemx.quest_nickel.text=I bet you want more cobblestone.
+
+chemx.cobble_gen_2.title=Cobblestone Generator Tier 2
+chemx.cobble_gen_2.text=2x more cobblestone than the tier 1!
+
+chemx.quest_cadmium.title=16x Cadmium
+chemx.quest_cadmium.text=
+
+chemx.quest_dysprosium.title=16x Dysprosium
+chemx.quest_dysprosium.text=What, you want MORE cobblestone?
+
+chemx.quest_zirconium.title=16x Zirconium
+chemx.quest_zirconium.text=Are you sure you can handle this much cobblestone?
+
+chemx.cobble_gen_3.title=Cobblestone Generator Tier 3
+chemx.cobble_gen_3.text=Fine, this one produces 4x more cobblestone than the tier 1!
+
+chemx.quest_mendelevium.title=16x Mendelevium
+chemx.quest_mendelevium.text=You can use these to make nether stars!
+
+chemx.redstone.title=Redstone
+chemx.redstone.text=#Redstone=Life
+
+chemx.lapis.title=Lapis Lazuli
+chemx.lapis.text=
+
+chemx.quest_antimony.title=16x Antimony
+chemx.quest_antimony.text=
+
+chemx.manufactory.title=Manufactory
+chemx.manufactory.text=
+
+chemx.graphite.title=Graphite [Repeatable]
+chemx.graphite.text=Turn coal into coins!
+
+chemx.simulation.title=Simulation Chamber
+chemx.simulation.text=The beginning of Deep Mob Learning! For the next few quests, you'll want to make a wither skeleton spawn egg to start making hellish matter.
+
+chemx.quest_germanium.title=Germanium
+chemx.quest_germanium.text=
+
+chemx.quest_thulium.title=16x Thulium
+chemx.quest_thulium.text=
+
+chemx.quest_thorium.title=16x Thorium
+chemx.quest_thorium.text=
+
+chemx.quest_californium.title=16x Californium
+chemx.quest_californium.text=
+
+chemx.quest_uranium.title=16x Uranium
+chemx.quest_uranium.text=
+
+chemx.quest_plutonium.title=16x Plutonium
+chemx.quest_plutonium.text=
+
+chemx.quest_neptunium.title=16x Neptunium
+chemx.quest_neptunium.text=
+
+chemx.quest_curium.title=16x Curium
+chemx.quest_curium.text=
+
+chemx.quest_americium.title=16x Americium
+chemx.quest_americium.text=
+
+chemx.quest_berkelium.title=16x Berkelium
+chemx.quest_berkelium.text=
+#
+#Periodic Table
+#
+chemx.hydrogen.title=1000x Hydrogen
+chemx.hydrogen.text=It's pretty common, I hear...
+
+chemx.helium.title=1000x Helium
+chemx.helium.text=Ideal for fusion
+
+chemx.lithium.title=1000x Lithium
+chemx.lithium.text=Batteries not included.
+
+chemx.beryllium.title=1000x Beryllium
+chemx.beryllium.text=It's light, it's strong!
+
+chemx.boron.title=1000x Boron
+chemx.boron.text=
+
+chemx.carbon.title=1000x Carbon
+chemx.carbon.text=Approximately 1.953125 diamonds.
+
+chemx.nitrogen.title=1000x Nitrogen
+chemx.nitrogen.text=Makes up the majority of what you breathe, hopefully.
+
+chemx.oxygen.title=1000x Oxygen
+chemx.oxygen.text=This modpack was brought to you by oxygen
+
+chemx.fluorine.title=1000x Fluorine
+chemx.fluorine.text=That's a lot of toothpaste.
+
+chemx.neon.title=1000x Neon
+chemx.neon.text=Pretty lights!
+
+chemx.sodium.title=1000x Sodium
+chemx.sodium.text=The essence of every competitive gamer.
+
+chemx.magnesium.title=1000x Magnesium
+chemx.magnesium.text=
+
+chemx.aluminum.title=1000x Aluminum
+chemx.aluminum.text=Aluminum. Aluminium. Aluminiumum. Aluminiumumium.
+
+chemx.silicon.title=1000x Silicon
+chemx.silicon.text=
+
+chemx.phosphorus.title=1000x Phosphorus
+chemx.phosphorus.text=
+
+chemx.sulfur.title=1000x Sulfur
+chemx.sulfur.text=
+
+chemx.chlorine.title=1000x Chlorine
+chemx.chlorine.text=
+
+chemx.argon.title=1000x Argon
+chemx.argon.text=
+
+chemx.potassium.title=1000x Potassium
+chemx.potassium.text=
+
+chemx.calcium.title=1000x Calcium
+chemx.calcium.text=
+
+chemx.scandium.title=1000x Scandium
+chemx.scandium.text=
+
+chemx.titanium.title=1000x Titanium
+chemx.titanium.text=One of the strongest metals known to man.
+
+chemx.vanadium.title=1000x Vanadium
+chemx.vanadium.text=
+
+chemx.chromium.title=1000x Chromium
+chemx.chromium.text=Rust-resistant!
+
+chemx.manganese.title=1000x Manganese
+chemx.manganese.text=
+
+chemx.iron.title=1000x Iron
+chemx.iron.text=
+
+chemx.cobalt.title=1000x Cobalt
+chemx.cobalt.text=But where's the ardite?
+
+chemx.nickel.title=1000x Nickel
+chemx.nickel.text=
+
+chemx.copper.title=1000x Copper
+chemx.copper.text=Used for making nickels.
+
+chemx.zinc.title=1000x Zinc
+chemx.zinc.text=
+
+chemx.gallium.title=1000x Gallium
+chemx.gallium.text=A gallon of gallium.
+
+chemx.germanium.title=1000x Germanium
+chemx.germanium.text=
+
+chemx.arsenic.title=1000x Arsenic
+chemx.arsenic.text=
+
+chemx.selenium.title=1000x Selenium
+chemx.selenium.text=Sadly, this isn't as much fish as it should be.
+
+chemx.bromine.title=1000x Bromine
+chemx.bromine.text=
+
+chemx.krypton.title=1000x Krypton
+chemx.krypton.text=Eat your heart out, superman.
+
+chemx.rubidium.title=1000x Rubidium
+chemx.rubidium.text=
+
+chemx.strontium.title=1000x Strontium
+chemx.strontium.text=
+
+chemx.yttrium.title=1000x Yttrium
+chemx.yttrium.text=
+
+chemx.zirconium.title=1000x Zirconium
+chemx.zirconium.text=
+
+chemx.niobium.title=1000x Niobium
+chemx.niobium.text=
+
+chemx.molybdenum.title=1000x Molybdenum
+chemx.molybdenum.text=
+
+chemx.technetium.title=1000x Technetium
+chemx.technetium.text=This dude up here is radioactive for some reason.
+
+chemx.ruthenium.title=1000x Ruthenium
+chemx.ruthenium.text=
+
+chemx.rhodium.title=1000x Rhodium
+chemx.rhodium.text=
+
+chemx.palladium.title=1000x Palladium
+chemx.palladium.text=
+
+chemx.silver.title=1000x Silver
+chemx.silver.text=
+
+chemx.cadmium.title=1000x Cadmium
+chemx.cadmium.text=
+
+chemx.indium.title=1000x Indium
+chemx.indium.text=
+
+chemx.tin.title=1000x Tin
+chemx.tin.text=Can
+
+chemx.antimony.title=1000x Antimony
+chemx.antimony.text=
+
+chemx.tellurium.title=1000x Tellurium
+chemx.tellurium.text=
+
+chemx.iodine.title=1000x Iodine
+chemx.iodine.text=
+
+chemx.xenon.title=1000x Xenon
+chemx.xenon.text=
+
+chemx.cesium.title=1000x Cesium
+chemx.cesium.text=
+
+chemx.barium.title=1000x Barium
+chemx.barium.text=
+
+chemx.lanthanum.title=1000x Lanthanum
+chemx.lanthanum.text=
+
+chemx.cerium.title=1000x Cerium
+chemx.cerium.text=
+
+chemx.praseodymium.title=1000x Praseodymium
+chemx.praseodymium.text=
+
+chemx.neodymium.title=1000x Neodymium
+chemx.neodymium.text=Magnets!
+
+chemx.prometheum.title=1000x Prometheum
+chemx.prometheum.text=
+
+chemx.samarium.title=1000x Samarium
+chemx.samarium.text=
+
+chemx.europium.title=1000x Europium
+chemx.europium.text=
+
+chemx.gadolinium.title=1000x Gadolinium
+chemx.gadolinium.text=Almost gasolinium, but not quite.
+
+chemx.terbium.title=1000x Terbium
+chemx.terbium.text=
+
+chemx.dysprosium.title=1000x Dysprosium
+chemx.dysprosium.text=
+
+chemx.holmium.title=1000x Holmium
+chemx.holmium.text=
+
+chemx.erbium.title=1000x Erbium
+chemx.erbium.text=
+
+chemx.thulium.title=1000x Thulium
+chemx.thulium.text=
+
+chemx.ytterbium.title=1000x Ytterbium
+chemx.ytterbium.text=
+
+chemx.lutetium.title=1000x Lutetium
+chemx.lutetium.text=
+
+chemx.hafnium.title=1000x Hafnium
+chemx.hafnium.text=
+
+chemx.tantalum.title=1000x Tantalum
+chemx.tantalum.text=
+
+chemx.tungsten.title=1000x Tungsten
+chemx.tungsten.text=
+
+chemx.rhenium.title=1000x Rhenium
+chemx.rhenium.text=
+
+chemx.osmium.title=1000x Osmium
+chemx.osmium.text=
+
+chemx.iridium.title=1000x Iridium
+chemx.iridium.text=
+
+chemx.platinum.title=1000x Platinum
+chemx.platinum.text=
+
+chemx.gold.title=1000x Gold
+chemx.gold.text=
+
+chemx.mercury.title=1000x Mercury
+chemx.mercury.text=How many thermometers did you have to break to get this?
+
+chemx.thallium.title=1000x Thallium
+chemx.thallium.text=
+
+chemx.lead.title=1000x Lead
+chemx.lead.text=
+
+chemx.bismuth.title=1000x Bismuth
+chemx.bismuth.text=
+
+chemx.polonium.title=1000x Polonium
+chemx.polonium.text=
+
+chemx.astatine.title=1000x Astatine
+chemx.astatine.text=
+
+chemx.radon.title=1000x Radon
+chemx.radon.text=
+
+chemx.francium.title=1000x Francium
+chemx.francium.text=
+
+chemx.radium.title=1000x Radium
+chemx.radium.text=
+
+chemx.actinium.title=1000x Actinium
+chemx.actinium.text=
+
+chemx.thorium.title=1000x Thorium
+chemx.thorium.text=
+
+chemx.protactinium.title=1000x Protactinium
+chemx.protactinium.text=
+
+chemx.uranium.title=1000x Uranium
+chemx.uranium.text=
+
+chemx.neptunium.title=1000x Neptunium
+chemx.neptunium.text=Like uranium, but from Neptune.
+
+chemx.plutonium.title=1000x Plutonium
+chemx.plutonium.text=Like neptunium, but from Pluto.
+
+chemx.americium.title=1000x Americium
+chemx.americium.text=
+
+chemx.curium.title=1000x Curium
+chemx.curium.text=
+
+chemx.berkelium.title=1000x Berkelium
+chemx.berkelium.text=
+
+chemx.californium.title=1000x Californium
+chemx.californium.text=
+
+chemx.einsteinium.title=1000x Einsteinium
+chemx.einsteinium.text=Definitely the smartest of the elements.
+
+chemx.fermium.title=1000x Fermium
+chemx.fermium.text=
+
+chemx.mendelevium.title=1000x Mandelevium
+chemx.mendelevium.text=
+
+chemx.nobelium.title=1000x Nobelium
+chemx.nobelium.text=
+
+chemx.lawrencium.title=1000x Lawrencium
+chemx.lawrencium.text=
+
+chemx.rutherfordium.title=1000x Rutherfordium
+chemx.rutherfordium.text=
+
+chemx.dubnium.title=1000x Dubnium
+chemx.dubnium.text=
+
+chemx.seaborgium.title=1000x Seaborgium
+chemx.seaborgium.text=
+
+chemx.bohrium.title=1000x Bohrium
+chemx.bohrium.text=Bohring!
+
+chemx.hassium.title=1000x Hassium
+chemx.hassium.text=
+
+chemx.meitnerium.title=1000x Meitnerium
+chemx.meitnerium.text=
+
+chemx.darmstadtium.title=1000x Darmstadtium
+chemx.darmstadtium.text=
+
+chemx.roentgenium.title=1000x Roentgenium
+chemx.roentgenium.text=
+
+chemx.copernicium.title=1000x Copernicium
+chemx.copernicium.text=
+
+chemx.nihonium.title=1000x Nihonium
+chemx.nihonium.text=
+
+chemx.flerovium.title=1000x Flerovium
+chemx.flerovium.text=
+
+chemx.moscovium.title=1000x Moscovium
+chemx.moscovium.text=In Soviet Russia, atoms split you.
+
+chemx.livermorium.title=1000x Livermorium
+chemx.livermorium.text=
+
+chemx.tennessine.title=1000x Tennessine
+chemx.tennessine.text=
+
+chemx.oganesson.title=1000x Oganesson
+chemx.oganesson.text=

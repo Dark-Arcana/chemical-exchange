@@ -1,0 +1,640 @@
+{
+  "entries": [
+    {
+      "item": "alchemistry:element|6",
+      "emc": 8
+    },
+    {
+      "item": "alchemistry:element|1",
+      "emc": 1
+    },
+    {
+      "item": "alchemistry:element|8",
+      "emc": 2
+    },
+    {
+      "item": "alchemistry:element|26",
+      "emc": 96
+    },
+    {
+      "item": "alchemistry:element|14",
+      "emc": 8
+    },
+    {
+      "item": "alchemistry:element|7",
+      "emc": 32
+    },
+    {
+      "item": "alchemistry:element|16",
+      "emc": 32
+    },
+    {
+      "item": "alchemistry:element|13",
+      "emc": 64
+    },
+    {
+      "item": "alchemistry:element|79",
+      "emc": 256
+    },
+    {
+      "item": "alchemistry:element|66",
+      "emc": 512
+    },
+    {
+      "item": "alchemistry:element|40",
+      "emc": 512
+    },
+    {
+      "item": "alchemistry:element|15",
+      "emc": 32
+    },
+    {
+      "item": "alchemistry:element|28",
+      "emc": 256
+    },
+    {
+      "item": "alchemistry:element|31",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|74",
+      "emc": 256
+    },
+    {
+      "item": "alchemistry:element|12",
+      "emc": 64
+    },
+    {
+      "item": "alchemistry:element|2",
+      "emc": 32
+    },
+    {
+      "item": "alchemistry:element|3",
+      "emc": 64
+    },
+    {
+      "item": "alchemistry:element|29",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|50",
+      "emc": 96
+    },
+    {
+      "item": "alchemistry:element|30",
+      "emc": 256
+    },
+    {
+      "item": "alchemistry:element|82",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|4",
+      "emc": 256
+    },
+    {
+      "item": "alchemistry:element|5",
+      "emc": 256
+    },
+    {
+      "item": "alchemistry:element|9",
+      "emc": 256
+    },
+    {
+      "item": "alchemistry:element|10",
+      "emc": 256
+    },
+    {
+      "item": "alchemistry:element|11",
+      "emc": 64
+    },
+    {
+      "item": "alchemistry:element|17",
+      "emc": 16
+    },
+    {
+      "item": "alchemistry:element|18",
+      "emc": 256
+    },
+    {
+      "item": "alchemistry:element|19",
+      "emc": 64
+    },
+    {
+      "item": "alchemistry:element|20",
+      "emc": 64
+    },
+    {
+      "item": "alchemistry:element|21",
+      "emc": 256
+    },
+    {
+      "item": "alchemistry:element|22",
+      "emc": 512
+    },
+    {
+      "item": "alchemistry:element|23",
+      "emc": 512
+    },
+    {
+      "item": "alchemistry:element|24",
+      "emc": 64
+    },
+    {
+      "item": "alchemistry:element|25",
+      "emc": 64
+    },
+    {
+      "item": "alchemistry:element|27",
+      "emc": 512
+    },
+    {
+      "item": "alchemistry:element|32",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|33",
+      "emc": 256
+    },
+    {
+      "item": "alchemistry:element|34",
+      "emc": 256
+    },
+    {
+      "item": "alchemistry:element|35",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|36",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|80",
+      "emc": 32
+    },
+    {
+      "item": "alchemistry:element|93",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|76",
+      "emc": 64
+    },
+    {
+      "item": "alchemistry:element|37",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|38",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|39",
+      "emc": 256
+    },
+    {
+      "item": "alchemistry:element|41",
+      "emc": 512
+    },
+    {
+      "item": "alchemistry:element|42",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|43",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|44",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|45",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|46",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|47",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|48",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|49",
+      "emc": 64
+    },
+    {
+      "item": "alchemistry:element|51",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|52",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|53",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|54",
+      "emc": 256
+    },
+    {
+      "item": "alchemistry:element|55",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|56",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|57",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|58",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|59",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|60",
+      "emc": 64
+    },
+    {
+      "item": "alchemistry:element|61",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|62",
+      "emc": 256
+    },
+    {
+      "item": "alchemistry:element|63",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|64",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|65",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|67",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|68",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|69",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|70",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|71",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|72",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|73",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|75",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|77",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|78",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|81",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|83",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|84",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|85",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|86",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|87",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|88",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|89",
+      "emc": 128
+    },
+    {
+      "item": "alchemistry:element|90",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|91",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|92",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|94",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|95",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|96",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|97",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|98",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|99",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|100",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|101",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|102",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|104",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|103",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|105",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|106",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|107",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|108",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|109",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|110",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|111",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|112",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|113",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|114",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|115",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|116",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|117",
+      "emc": 1024
+    },
+    {
+      "item": "alchemistry:element|118",
+      "emc": 1024
+    },
+    {
+      "item": "projecte:item.pe_fuel|0",
+      "emc": 1280
+    },
+    {
+      "item": "projecte:fuel_block|0",
+      "emc": 11520
+    },
+    {
+      "item": "projecte:item.pe_fuel|1",
+      "emc": 6464
+    },
+    {
+      "item": "projecte:fuel_block|1",
+      "emc": 58176
+    },
+    {
+      "item": "projecte:item.pe_fuel|2",
+      "emc": 27520
+    },
+    {
+      "item": "projecte:fuel_block|2",
+      "emc": 247680
+    },
+    {
+      "item": "projecte:item.pe_matter|0",
+      "emc": 257024
+    },
+    {
+      "item": "projecte:item.pe_matter|1",
+      "emc": 936192
+    },
+    {
+      "item": "projectex:matter|0",
+      "emc": 2973696
+    },
+    {
+      "item": "projectex:matter|1",
+      "emc": 9086208
+    },
+    {
+      "item": "projectex:matter|2",
+      "emc": 27423744
+    },
+    {
+      "item": "projectex:matter|3",
+      "emc": 82436352
+    },
+    {
+      "item": "projectex:matter|4",
+      "emc": 247474176
+    },
+    {
+      "item": "projectex:matter|5",
+      "emc": 742587648
+    },
+    {
+      "item": "projectex:matter|6",
+      "emc": 2227928064
+    },
+    {
+      "item": "projectex:matter|7",
+      "emc": 6683949312
+    },
+    {
+      "item": "projectex:matter|8",
+      "emc": 20052013056
+    },
+    {
+      "item": "projectex:matter|9",
+      "emc": 60156204288
+    },
+    {
+      "item": "projectex:matter|10",
+      "emc": 180468777984
+    },
+    {
+      "item": "projectex:matter|11",
+      "emc": 541406499072
+    },
+    {
+      "item": "projectex:matter|12",
+      "emc": 1624219662336
+    },
+    {
+      "item": "projectex:matter|13",
+      "emc": 4872659152128
+    },
+    {
+      "item": "projectex:matter|14",
+      "emc": 14617977621504
+    },
+    {
+      "item": "projectex:matter|15",
+      "emc": 43853933029632
+    },
+    {
+      "item": "projecte:matter_block|0",
+      "emc": 1028096
+    },
+    {
+      "item": "projecte:matter_block|1",
+      "emc": 3744768
+    },
+    {
+      "item": "projecte:item.pe_klein_star|5",
+      "emc": 25165824
+    },
+    {
+      "item": "projectex:magnum_star_omega|0",
+      "emc": 103079215104
+    },
+    {
+      "item": "projectex:colossal_star_omega|0",
+      "emc": 422212465065984
+    },
+    {
+      "item": "projecte:relay_mk1|0",
+      "emc": 36912
+    },
+    {
+      "item": "projectex:relay|0",
+      "emc": 36912
+    },
+    {
+      "item": "projectex:relay|1",
+      "emc": 293936
+    },
+    {
+      "item": "projecte:collector_mk1|0",
+      "emc": 39936
+    },
+    {
+      "item": "projectex:compressed_collector|0",
+      "emc": 359424
+    },
+    {
+      "item": "projectex:collector|0",
+      "emc": 39936
+    },
+    {
+      "item": "projectex:personal_link|0",
+      "emc": 0
+    },
+    {
+      "item": "projectex:energy_link|0",
+      "emc": 1000000
+    },
+    {
+      "item": "projectex:power_flower|0",
+      "emc": 1940320
+    },
+    {
+      "item": "projectex:collector|1",
+      "emc": 296960
+    },
+    {
+      "item": "projectex:collector|2",
+      "emc": 1233152
+    },
+    {
+      "item": "projecte:alchemical_chest|0",
+      "emc": 10000
+    }
+  ]
+}
